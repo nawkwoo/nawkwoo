@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=Panwoo's%20GitHub&fontSize=60)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=Panwoo's%20GitHub&fontSize=60" />
+</div>
 
 <div align="center">
 <strong>🤨 Introduce Myself</strong><br>
 <br>
-🏫 현재 인공지능을 전공하며, `Python`을 주로 공부하고 있습니다. <br>
-🍀 최근 웹프로그래밍 동아리 `피로그래밍 21기`를 수료하였습니다. <br>
+🏫 현재 인공지능을 전공하며, <code>Python</code>을 주로 공부하고 있습니다. <br>
+🍀 최근 웹프로그래밍 동아리 <code>피로그래밍 21기</code>를 수료하였습니다. <br>
 
 <br>
 ___
