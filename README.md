@@ -7,11 +7,12 @@
 <div align="center">
 <strong>🤨 Introduce Myself</strong><br>
 <br>
-🏫 현재 인공지능을 전공하며, <code>Python</code>을 주로 공부하고 있습니다. <br>
-🍀 최근 웹프로그래밍 동아리 <code>피로그래밍 21기</code>를 수료하였습니다. <br>
+🏫 현재 인공지능을 전공 중이며, <code>Python</code>을 주로 공부하고 있습니다. <br>
+🍀 웹 프로그래밍 연합동아리 <code>PIROGRAMMING</code> 21기를 수료하고, 22기 부회장으로 활동했습니다. <br>
+🐘 빅데이터 연합동아리 <code>BOAZ</code> 분석 24기로 활동 중입니다.
 
 <br>
-___
+<!-- ___
 <br>
 
 <strong>📋 Once I've Used</strong><br>
@@ -35,7 +36,7 @@ ___
 
 <strong>✏️ Study log</strong><br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawkwoo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawkwoo&layout=compact) -->
 
 </div>
 
